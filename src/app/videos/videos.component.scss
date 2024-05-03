@@ -1,0 +1,13 @@
+.video-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: #ececc4;
+    height: 600px; /* Adjust the height as needed */
+  }
+  
+  .video-container iframe {
+    width: 90%; /* Take up the entire width of the container */
+    height: 90%; /* Take up the entire height of the container */
+  }
+  
